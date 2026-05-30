@@ -1,0 +1,226 @@
+[
+  {
+    "place_id": "PLC0001",
+    "name": "India Gate",
+    "city": "Delhi",
+    "type": "monument",
+    "rating": 4.8
+  },
+  {
+    "place_id": "PLC0002",
+    "name": "Qutub Minar",
+    "city": "Delhi",
+    "type": "historic site",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0003",
+    "name": "Lotus Temple",
+    "city": "Delhi",
+    "type": "temple",
+    "rating": 4.6
+  },
+  {
+    "place_id": "PLC0004",
+    "name": "Red Fort",
+    "city": "Delhi",
+    "type": "historic site",
+    "rating": 4.5
+  },
+  {
+    "place_id": "PLC0005",
+    "name": "Marine Drive",
+    "city": "Mumbai",
+    "type": "scenic",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0006",
+    "name": "Gateway of India",
+    "city": "Mumbai",
+    "type": "monument",
+    "rating": 4.6
+  },
+  {
+    "place_id": "PLC0007",
+    "name": "Elephanta Caves",
+    "city": "Mumbai",
+    "type": "historic site",
+    "rating": 4.5
+  },
+  {
+    "place_id": "PLC0008",
+    "name": "Juhu Beach",
+    "city": "Mumbai",
+    "type": "beach",
+    "rating": 4.4
+  },
+  {
+    "place_id": "PLC0009",
+    "name": "Baga Beach",
+    "city": "Goa",
+    "type": "beach",
+    "rating": 4.8
+  },
+  {
+    "place_id": "PLC0010",
+    "name": "Fort Aguada",
+    "city": "Goa",
+    "type": "fort",
+    "rating": 4.6
+  },
+  {
+    "place_id": "PLC0011",
+    "name": "Dudhsagar Falls",
+    "city": "Goa",
+    "type": "waterfall",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0012",
+    "name": "Anjuna Market",
+    "city": "Goa",
+    "type": "market",
+    "rating": 4.5
+  },
+  {
+    "place_id": "PLC0013",
+    "name": "Lalbagh Botanical Garden",
+    "city": "Bangalore",
+    "type": "garden",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0014",
+    "name": "Bangalore Palace",
+    "city": "Bangalore",
+    "type": "palace",
+    "rating": 4.5
+  },
+  {
+    "place_id": "PLC0015",
+    "name": "Cubbon Park",
+    "city": "Bangalore",
+    "type": "park",
+    "rating": 4.6
+  },
+  {
+    "place_id": "PLC0016",
+    "name": "ISRO Satellite Museum",
+    "city": "Bangalore",
+    "type": "museum",
+    "rating": 4.3
+  },
+  {
+    "place_id": "PLC0017",
+    "name": "Marina Beach",
+    "city": "Chennai",
+    "type": "beach",
+    "rating": 4.6
+  },
+  {
+    "place_id": "PLC0018",
+    "name": "Kapaleeshwarar Temple",
+    "city": "Chennai",
+    "type": "temple",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0019",
+    "name": "Fort St. George",
+    "city": "Chennai",
+    "type": "fort",
+    "rating": 4.4
+  },
+  {
+    "place_id": "PLC0020",
+    "name": "Government Museum",
+    "city": "Chennai",
+    "type": "museum",
+    "rating": 4.3
+  },
+  {
+    "place_id": "PLC0021",
+    "name": "Charminar",
+    "city": "Hyderabad",
+    "type": "monument",
+    "rating": 4.8
+  },
+  {
+    "place_id": "PLC0022",
+    "name": "Golconda Fort",
+    "city": "Hyderabad",
+    "type": "fort",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0023",
+    "name": "Ramoji Film City",
+    "city": "Hyderabad",
+    "type": "theme park",
+    "rating": 4.5
+  },
+  {
+    "place_id": "PLC0024",
+    "name": "Hussain Sagar Lake",
+    "city": "Hyderabad",
+    "type": "lake",
+    "rating": 4.4
+  },
+  {
+    "place_id": "PLC0025",
+    "name": "Victoria Memorial",
+    "city": "Kolkata",
+    "type": "monument",
+    "rating": 4.8
+  },
+  {
+    "place_id": "PLC0026",
+    "name": "Dakshineswar Kali Temple",
+    "city": "Kolkata",
+    "type": "temple",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0027",
+    "name": "Howrah Bridge",
+    "city": "Kolkata",
+    "type": "bridge",
+    "rating": 4.5
+  },
+  {
+    "place_id": "PLC0028",
+    "name": "Park Street",
+    "city": "Kolkata",
+    "type": "market",
+    "rating": 4.4
+  },
+  {
+    "place_id": "PLC0029",
+    "name": "Amer Fort",
+    "city": "Jaipur",
+    "type": "fort",
+    "rating": 4.7
+  },
+  {
+    "place_id": "PLC0030",
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "type": "palace",
+    "rating": 4.6
+  },
+  {
+    "place_id": "PLC0031",
+    "name": "Jal Mahal",
+    "city": "Jaipur",
+    "type": "lake",
+    "rating": 4.5
+  },
+  {
+    "place_id": "PLC0032",
+    "name": "City Palace",
+    "city": "Jaipur",
+    "type": "palace",
+    "rating": 4.4
+  }
+]
